@@ -52,10 +52,10 @@ Initial Release
 [Victor and Emmanuel](https://self-taught-devs.netlify.app)
 
 ### More info
-- [self taught/)
+- [self taught](https://self-taught-devs.netlify.app/)
 - [netlify](https://netlify.com/)
 
 
 ### License
 
-Concept is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that self taught devs is the original author of this template.
+self taught  is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that self taught devs is the original author of this template.
